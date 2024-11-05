@@ -33,3 +33,27 @@ La arquitectura web de tres capas es un modelo de diseño de software que divide
    sudo apt update
    sudo apt upgrade
 
+2. **Instalar Apache:**:
+   ```bash
+   sudo apt install apache2
+
+3. **Verificar el estado de Apache:**:
+   ```bash
+   sudo systemctl status apache2
+
+4. **Configurar el firewall:**:
+   ```bash
+   sudo ufw allow 'Apache'
+   sudo ufw status
+
+5. **Prueba de instalación:**:
+    Abre el navegador y visita http://your_server_ip para verificar que Apache esté funcionando correctamente.
+
+## Recursos
+
+- [Guía de instalación de LAMP en DigitalOcean (Ubuntu 18.04)](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
+- [Guía de instalación de LAMP en DigitalOcean (Ubuntu 20.04)](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es)
+- [Más información sobre `apt-get`](http://www.ubuntu-guia.com/2011/01/comando-apt-get-en-ubuntu.html)
+- [Guía para instalar Ubuntu en VirtualBox](https://www.neoguias.com/instalar-ubuntu-windows-virtual-box/)
+
+
