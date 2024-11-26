@@ -67,11 +67,29 @@ Habilitamos los sitios y módulos requeridos:
 ![enable](https://github.com/user-attachments/assets/e7463301-fd97-4402-ac74-dc6078981722)
 ![a2ensiteconf](https://github.com/user-attachments/assets/33c1eb04-142e-4a03-a33d-4ed7f1ab7ea8)
 
-Reseteamos apache
+
+## Crear el script Python en CGI
+
+Crea un archivo CGI en el directorio correspondiente:
+
+![nano](https://github.com/user-attachments/assets/1044b216-3dae-4614-a551-84e89d87937c)
+
+Agrega el siguiente contenido:
+
+![python](https://github.com/user-attachments/assets/93aac7ad-5d6f-4691-981b-235320c97604)
+
+Haz que el script sea ejecutable:
+
+![chmodpy](https://github.com/user-attachments/assets/88d8a9c8-6a57-4f4e-b7c8-db153c48049d)
+
+## Reseteamos apache
 
 ![restart](https://github.com/user-attachments/assets/a250c4f4-b91d-4642-b717-87750d9b3028)
 
-## Instalar y configurar WordPress
+Y vemos los resultados:
+
+
+# 2.Activar los módulos necesarios para ejecutar php y acceder a mysql
 
 **Instalar PHP y MySQL:**
 
