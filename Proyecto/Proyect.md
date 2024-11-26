@@ -40,7 +40,34 @@ Y añadimos las siguientes líneas:
 
 ![mkdir](https://github.com/user-attachments/assets/d9c531ee-c78e-4c49-93a8-70eb0b26af19)
 
+Aseguramos de asignar permisos:
 
+![chown permisos](https://github.com/user-attachments/assets/a7110abe-9a03-48a6-acfc-d3eccc5b68da)
+
+## Configurar Virtual Hosts para Apache
+
+Para centro.intranet (WordPress):
+
+![nano 1](https://github.com/user-attachments/assets/f1b72688-abd1-4401-a715-3ce167a3e4a4)
+
+Contenido:
+
+![serverhost](https://github.com/user-attachments/assets/88e75154-c974-429e-b8f1-a92d677e40a8)
+
+Para departamentos.centro.intranet:
+
+![pyconfi](https://github.com/user-attachments/assets/213e3c98-fbb9-4861-9f79-40e830855c93)
+
+Contenido:
+
+![confi](https://github.com/user-attachments/assets/0172b7a2-5aaa-421e-abd5-82ca36bc7a5c)
+
+Habilitamos los sitios y módulos requeridos:
+
+![enable](https://github.com/user-attachments/assets/e7463301-fd97-4402-ac74-dc6078981722)
+![a2ensiteconf](https://github.com/user-attachments/assets/33c1eb04-142e-4a03-a33d-4ed7f1ab7ea8)
+
+Reseteamos apache
 
 
 
