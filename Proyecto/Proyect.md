@@ -60,7 +60,8 @@ Para departamentos.centro.intranet:
 
 Contenido:
 
-![confi](https://github.com/user-attachments/assets/0172b7a2-5aaa-421e-abd5-82ca36bc7a5c)
+![1](https://github.com/user-attachments/assets/73c2f727-69a2-4b0f-9634-8c36df5f204c)
+
 
 Habilitamos los sitios y módulos requeridos:
 
@@ -68,15 +69,15 @@ Habilitamos los sitios y módulos requeridos:
 ![a2ensiteconf](https://github.com/user-attachments/assets/33c1eb04-142e-4a03-a33d-4ed7f1ab7ea8)
 
 
-## Crear el script Python en CGI
+## Crear el script Python 
 
 Crea un archivo CGI en el directorio correspondiente:
 
-![nano](https://github.com/user-attachments/assets/1044b216-3dae-4614-a551-84e89d87937c)
+![2](https://github.com/user-attachments/assets/ab99d5a6-02d4-4cba-b47b-4ce82793599f)
 
 Agrega el siguiente contenido:
 
-![python](https://github.com/user-attachments/assets/93aac7ad-5d6f-4691-981b-235320c97604)
+![3](https://github.com/user-attachments/assets/ba19fec6-5502-4ef7-af98-678bf0e3154e)
 
 Haz que el script sea ejecutable:
 
@@ -88,6 +89,15 @@ Haz que el script sea ejecutable:
 
 Y vemos los resultados:
 
+Wordpress:
+
+![worrrrr](https://github.com/user-attachments/assets/1a7b1967-92fb-4ea6-9a10-3020aea22c8d)
+
+Y python:
+Nos dirije a este index:
+![PY](https://github.com/user-attachments/assets/7554a563-d6be-4c34-ae57-6686b795c866)
+
+![final](https://github.com/user-attachments/assets/449af36f-9b0c-426c-86c5-f2396e3d0cba)
 
 # 2.Activar los módulos necesarios para ejecutar php y acceder a mysql
 
