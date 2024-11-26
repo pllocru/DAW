@@ -95,6 +95,7 @@ Wordpress:
 
 Y python:
 Nos dirije a este index:
+
 ![PY](https://github.com/user-attachments/assets/7554a563-d6be-4c34-ae57-6686b795c866)
 
 ![final](https://github.com/user-attachments/assets/449af36f-9b0c-426c-86c5-f2396e3d0cba)
