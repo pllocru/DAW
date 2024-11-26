@@ -71,17 +71,18 @@ Habilitamos los sitios y módulos requeridos:
 
 ## Crear el script Python 
 
-Crea un archivo CGI en el directorio correspondiente:
+Coloca el archivo app.py en el directorio principal de departamentos.centro.intranet:
 
 ![2](https://github.com/user-attachments/assets/ab99d5a6-02d4-4cba-b47b-4ce82793599f)
 
 Agrega el siguiente contenido:
 
-![3](https://github.com/user-attachments/assets/ba19fec6-5502-4ef7-af98-678bf0e3154e)
+![medio](https://github.com/user-attachments/assets/3de36e62-e9c2-4d73-bef1-33fe17d3dfcb)
+
 
 Haz que el script sea ejecutable:
 
-![chmodpy](https://github.com/user-attachments/assets/88d8a9c8-6a57-4f4e-b7c8-db153c48049d)
+![3](https://github.com/user-attachments/assets/ba19fec6-5502-4ef7-af98-678bf0e3154e)
 
 ## Reseteamos apache
 
