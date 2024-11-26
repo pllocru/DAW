@@ -69,8 +69,23 @@ Habilitamos los sitios y módulos requeridos:
 
 Reseteamos apache
 
+![restart](https://github.com/user-attachments/assets/a250c4f4-b91d-4642-b717-87750d9b3028)
 
+## Instalar y configurar WordPress
 
+**Instalar PHP y MySQL:**
+
+![instalar sql](https://github.com/user-attachments/assets/22390496-579a-4e83-9881-e09ee23309c7)
+
+Accede a MySQL:
+
+![acces](https://github.com/user-attachments/assets/37ec9326-88ef-4e3e-8487-3a1590644f13)
+
+Ejecuta los siguientes comandos para crear la base de datos y usuario:
+
+![creamos base](https://github.com/user-attachments/assets/4d39a179-07c8-422c-9d27-37af68b5bb3e)
+
+Descargar WordPress:
 
 
 
