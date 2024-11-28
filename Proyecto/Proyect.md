@@ -105,17 +105,32 @@ Nos dirije a este index:
 
 **Instalar PHP y MySQL:**
 
-![instalar sql](https://github.com/user-attachments/assets/22390496-579a-4e83-9881-e09ee23309c7)
+Instala PHP y módulos necesarios: PHP es el lenguaje que vas a usar para interactuar con MySQL.
+También instalaremos los módulos mysqli y pdo_mysql que permiten a PHP conectarse a MySQL.
 
-Accede a MySQL:
+![instalar1](https://github.com/user-attachments/assets/8942b617-9c21-44b8-acb2-6302c88c43d0)
 
-![acces](https://github.com/user-attachments/assets/37ec9326-88ef-4e3e-8487-3a1590644f13)
+Instala MySQL (base de datos):
 
-Ejecuta los siguientes comandos para crear la base de datos y usuario:
+![mysql](https://github.com/user-attachments/assets/f8e585f3-6454-49e4-9f2d-500a3bb643c7)
 
-![creamos base](https://github.com/user-attachments/assets/4d39a179-07c8-422c-9d27-37af68b5bb3e)
+Verificar PHP: Crea un archivo de prueba info.php en el directorio de tu servidor web (/var/www/html):
 
-Descargar WordPress:
+![nanophp](https://github.com/user-attachments/assets/24c77ed6-c508-4afd-8327-008e6b8e06e0)
+
+Agrega lo siguiente en el archivo:
+
+![phprueba](https://github.com/user-attachments/assets/5eafe2ff-cf51-46b3-a4af-f66774f6028e)
+
+Luego, abre tu navegador y visita http://localhost/info.php. Deberías ver la página de información de PHP que muestra la configuración de PHP y los módulos instalados.
+
+![exito](https://github.com/user-attachments/assets/f7bcb430-d787-407a-a26d-db3740e165d8)
+
+Activamos MySQL y comprobamos de que está activo:
+
+![activamossql](https://github.com/user-attachments/assets/4b68ea0b-3abb-40ce-b298-1e62324d518d)
+
+
 
 
 
