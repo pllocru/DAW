@@ -7,4 +7,5 @@ Ejercicio | Descripción
 [ejercicio1](/tema1/ejercicio1.md) | Trabajo de scripts
 
 ## Proyecto 1º Trimestre
-Proyecto -> (/Proyecto/proyecto.md)
+
+Proyecto -> [Proyecto](/Proyecto/Proyect.md)
