@@ -8,4 +8,8 @@ Ejercicio | Descripción
 
 ## Proyecto 1º Trimestre
 
-Proyecto -> [Proyecto](/Proyecto/Proyect.md)
+Ejercicio | Descripción
+----------|------------
+[Proyecto](/Proyecto/Proyect.md) | Proyecto 
+
+
