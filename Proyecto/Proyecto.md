@@ -27,6 +27,17 @@ Instalar MySQL y crear una base de datos para WordPress:
 
 Accedemos a mysql:
 
+![acceso](https://github.com/user-attachments/assets/5e047a63-21d4-460a-8d5e-299d17b48ea2)
+
+Creamos una base de datos:
+
+![create](https://github.com/user-attachments/assets/1aa7e017-ba50-405a-8fe3-decc82ad0646)
+
+![bye](https://github.com/user-attachments/assets/5e625efc-7bef-457c-a7be-f5f17b793cd0)
+
+Descargamos e instalamos WordPress:
+
+
 
 ## 4.Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
