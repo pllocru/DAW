@@ -37,7 +37,25 @@ Creamos una base de datos:
 
 Descargamos e instalamos WordPress:
 
+![wordpress install](https://github.com/user-attachments/assets/04581fd7-a45b-4a4d-9877-265d528052bc)
 
+![tar](https://github.com/user-attachments/assets/473ff2fb-5359-4b5b-b115-fef64e4ea1ed)
+
+![vh](https://github.com/user-attachments/assets/b9518909-da6e-4753-bfc7-bd66b9fa7a88)
+
+![permisos](https://github.com/user-attachments/assets/80145567-c495-4aa5-b01a-2a63fd7df2eb)
+
+Configuramos un vortualHost para Wordpress:
+
+![confi](https://github.com/user-attachments/assets/2046f7bb-40d5-47e3-8222-bac03ba42313)
+
+Contenido:
+
+![contenido](https://github.com/user-attachments/assets/34bc15d6-7f56-4c95-b0fe-de1a736824d6)
+
+Habilitamos el sitio y reiniciamos con apache
+
+![fin wordpress](https://github.com/user-attachments/assets/49f6adb3-ce80-4bfe-8715-118ed1d85b1b)
 
 ## 4.Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
