@@ -90,6 +90,11 @@ Contenido:
 
 Le hemos añadido (hola) como contraseña
 
+![final](https://github.com/user-attachments/assets/ffec23c9-3f20-442e-9ced-eb1a025ee351)
+
+Y comprobamos que todo ha salido bien:
+
+![comprobacion](https://github.com/user-attachments/assets/377ff6d0-7caf-4a3d-9d07-01593ccc6a0f)
 
 
 
