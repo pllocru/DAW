@@ -66,4 +66,34 @@ Y comprobamos que haya funcionado,introducimos http://centro.intranet y nos da:
 ![WSGI](https://github.com/user-attachments/assets/897328e2-ec28-4a68-a12f-216af1dedbe9)
 
 
+## 5.Crea y despliega una aplicacion python para comprobar que funciona
+
+Creamos un directorio con el archivo:
+
+![mkdir](https://github.com/user-attachments/assets/f64ff179-13ca-43ec-85ff-a4d98afd5f08)
+
+Y accedemos a un archivo py dentro del directorio ya añadimos el siguiente codigo:
+
+![code](https://github.com/user-attachments/assets/2fff8317-e99b-4e68-b58b-3058deb809de)
+
+Configuramos el virtualHost:
+
+![nano2](https://github.com/user-attachments/assets/7541633a-efc0-4ae2-b536-d7380527e7a3)
+
+Contenido:
+
+![contenido](https://github.com/user-attachments/assets/485717eb-87e5-4759-9754-f6a43fe46c16)
+
+## 6.Añadimos adicionalmente una proteccion al acceso de python para comporbar que funciona
+
+![password](https://github.com/user-attachments/assets/d67b275b-1156-4922-a23f-8221a03292f8)
+
+Le hemos añadido (hola) como contraseña
+
+
+
+
+
+
+
 
