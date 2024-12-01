@@ -57,6 +57,10 @@ Habilitamos el sitio y reiniciamos con apache
 
 ![fin wordpress](https://github.com/user-attachments/assets/49f6adb3-ce80-4bfe-8715-118ed1d85b1b)
 
+Y comprobamos que haya funcionado,introducimos http://centro.intranet y nos da:
+
+![accesowordpress](https://github.com/user-attachments/assets/c4836949-db5e-40a8-b71e-e70988566c42)
+
 ## 4.Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
 ![WSGI](https://github.com/user-attachments/assets/897328e2-ec28-4a68-a12f-216af1dedbe9)
