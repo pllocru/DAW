@@ -13,7 +13,11 @@
 
 ## Activamos los módulos php y mysql
 
+![php](https://github.com/user-attachments/assets/90c51eb4-ba90-4adc-a28d-f2a9f6dd412b)
+
+Y reiniciamos:
+
+![restart](https://github.com/user-attachments/assets/b5af4c42-a452-4ca0-8aa8-2eba03432ebd)
 
 
 
-    
