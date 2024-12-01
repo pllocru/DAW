@@ -116,7 +116,7 @@ Actualizamos las características:
 
 ![sudo](https://github.com/user-attachments/assets/846617c1-ef9a-43ec-bc3c-ef4e79cbb45d)
 
-Y abilitamos el cgi:
+Y habilitamos el cgi:
 
 ![final](https://github.com/user-attachments/assets/4d8d22b4-08f4-4d8a-8317-5395658b1021)
 
@@ -124,7 +124,7 @@ Buscamos http://centro.intranet/cgi-bin/awstats.pl?config=centro.intranet como r
 
 ![FINALAWS](https://github.com/user-attachments/assets/dcdb7447-6023-44b7-991f-f8cb2899fbe5)
 
-## Instala un segundo servidor bajo el dominio servidor2.centro.intranet
+## 8.Instala un segundo servidor bajo el dominio servidor2.centro.intranet
 
 
 
