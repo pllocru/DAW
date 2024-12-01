@@ -24,3 +24,6 @@ Y reiniciamos:
 Instalar MySQL y crear una base de datos para WordPress:
 
 
+## 4.Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
+
+
