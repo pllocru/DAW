@@ -96,6 +96,36 @@ Y comprobamos que todo ha salido bien:
 
 ![comprobacion](https://github.com/user-attachments/assets/377ff6d0-7caf-4a3d-9d07-01593ccc6a0f)
 
+## 7.Instalamos y configuramos awstat.
+
+Instalamos AWStats:
+
+![instalar](https://github.com/user-attachments/assets/f77a7c57-78e5-4e52-81c3-94bddee812dc)
+
+Configuramos AWstats para Apache:
+
+![cp](https://github.com/user-attachments/assets/9b5c740d-5497-4dc7-8e54-dec3051fd45b)
+
+Editamos el archivo:
+
+![nano](https://github.com/user-attachments/assets/04c44a28-1ebc-4eaf-81dd-b89940919219)
+
+Y tenemos que cambiar el SiteDomain="centro.intranet"
+
+Actualizamos las características:
+
+![sudo](https://github.com/user-attachments/assets/846617c1-ef9a-43ec-bc3c-ef4e79cbb45d)
+
+Y abilitamos el cgi:
+
+![final](https://github.com/user-attachments/assets/4d8d22b4-08f4-4d8a-8317-5395658b1021)
+
+Buscamos http://centro.intranet/cgi-bin/awstats.pl?config=centro.intranet como resultado:
+
+![FINALAWS](https://github.com/user-attachments/assets/dcdb7447-6023-44b7-991f-f8cb2899fbe5)
+
+## Instala un segundo servidor bajo el dominio servidor2.centro.intranet
+
 
 
 
