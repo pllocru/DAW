@@ -23,7 +23,14 @@ Y reiniciamos:
 ## 3.Instalación y configuración de WordPress
 Instalar MySQL y crear una base de datos para WordPress:
 
+![mysql](https://github.com/user-attachments/assets/a31a693b-2b77-4963-aa46-54f53c9d8448)
+
+Accedemos a mysql:
+
 
 ## 4.Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
+
+![WSGI](https://github.com/user-attachments/assets/897328e2-ec28-4a68-a12f-216af1dedbe9)
+
 
 
