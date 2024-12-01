@@ -10,6 +10,6 @@ Ejercicio | Descripción
 
 Ejercicio | Descripción
 ----------|------------
-[Proyecto](/Proyecto/Proyect.md) | Proyecto 
+[Proyecto](/Proyecto/Proyecto.md) | Proyecto 
 
 
