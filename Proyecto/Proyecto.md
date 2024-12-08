@@ -126,9 +126,50 @@ Buscamos http://centro.intranet/cgi-bin/awstats.pl?config=centro.intranet como r
 
 ## 8.Instala un segundo servidor bajo el dominio servidor2.centro.intranet
 
+Actualizamos sistema
+
+![1](https://github.com/user-attachments/assets/50706075-62a9-44b9-b913-870a35e6685a)
+
+E instalamos Nginx y PHP:
+
+![instalamos](https://github.com/user-attachments/assets/cc433bd7-7711-43fd-a1b8-7d9074e72f6a)
+
+Crear un archivo de configuración para servidor2.centro.intranet:
+
+![acceder nano](https://github.com/user-attachments/assets/4b2191ed-e450-4820-b500-b8377bc2815f)
+
+Contenido:
+
+![info](https://github.com/user-attachments/assets/56aba196-9040-4cc6-9d88-f8c24d7c80e7)
+
+Activamos la configuracion:
+
+![ln](https://github.com/user-attachments/assets/d3078199-d43e-4ee3-9c70-c0f0bda0b348)
+
+![ngixxx](https://github.com/user-attachments/assets/b61ab87b-a4e5-47d0-a06f-4b90f4ab94ed)
+
+Creamos un archivo html para que se muestre:
+
+![archivohtml](https://github.com/user-attachments/assets/e3c1ee9b-ee60-41c8-bb3b-0cd85e2d7416)
+
+Damos permisos y creamos un directorio raiz:
+
+![mkdir](https://github.com/user-attachments/assets/d10e6fdb-d15f-4f63-99af-577132cbe9ed)
+
+![permisos](https://github.com/user-attachments/assets/6f710727-8c30-4239-9059-2129b72bacc9)
+
+Abrimos el etc/hosts y añadimos la ruta:
+
+![hosts](https://github.com/user-attachments/assets/8b38cc22-6b57-44ad-88a5-a0d13f53bacf)
 
 
+Y reiniciamos:
 
+![reiniciamos](https://github.com/user-attachments/assets/a9479054-b4ff-4604-84f1-f311fe675f15)
+
+Dando como resultado:
+
+![funciona](https://github.com/user-attachments/assets/13b3031d-3ec9-4897-b0f1-a8f4e345dd74)
 
 
 
