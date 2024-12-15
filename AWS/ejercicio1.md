@@ -35,7 +35,16 @@ Y lo inicamos:
 
 Y comporbamos que funciona:
 
-![funciona apache](https://github.com/user-attachments/assets/31e284f6-8036-4179-8108-cb59dc432fac)
+![funciona apache](https://github.com/user-attachments/assets/7013a9a4-5dbb-4c64-a2c1-e5a17721fe88)
 
 
 # Activar la autenticación con MySql 
+
+![instalamos mysql](https://github.com/user-attachments/assets/65f54809-3913-4d6e-9634-2c25a807b81c)
+
+Y instalamos el mod_authn_mod para la autenticación:
+
+
+
+
+
