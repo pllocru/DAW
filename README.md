@@ -15,6 +15,5 @@ Ejercicio | Descripción
 ## ACTIVIDAD AWS 
 
 Ejercicio | Descripción
-
 ----------|------------
 [AWS](/AWS/ejercicio1.md) | Ejercicio AWS 
