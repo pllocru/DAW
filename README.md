@@ -12,4 +12,9 @@ Ejercicio | Descripción
 ----------|------------
 [Proyecto](/Proyecto/Proyecto.md) | Proyecto 
 
+## ACTIVIDAD AWS 
 
+Ejercicio | Descripción
+
+----------|------------
+[AWS](/AWS/ejercicio1.md) | Ejercicio AWS 
