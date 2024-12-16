@@ -76,9 +76,15 @@ Y una vez haya realizado todos estos pasos,una vez coloquemos la url nos deberí
 
 #  Activar el Módulo SSL y Crear un Certificado Autofirmado
 
+Instala los módulos necesarios para SSL:
 
+![ej1](https://github.com/user-attachments/assets/9939209c-bd62-4107-90f1-9df89eb68d6a)
 
+Genera un certificado autofirmado:(se pueden inventar los datos):
 
+![ej2 mejor](https://github.com/user-attachments/assets/cf9bceea-2a73-4c85-b8f3-742aa9d60a55)
 
+![ej2 cont](https://github.com/user-attachments/assets/3f7744b1-75bc-4f49-b843-5574c61f88ac)
 
+Configura Apache para usar SSL:
 
