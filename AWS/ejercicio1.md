@@ -88,3 +88,17 @@ Genera un certificado autofirmado:(se pueden inventar los datos):
 
 Configura Apache para usar SSL:
 
+![a2enmod](https://github.com/user-attachments/assets/28c0fc5e-d88e-4df4-837c-4dc68d981da2)
+
+![segundo aenmod](https://github.com/user-attachments/assets/84c6774a-de03-4f5a-8770-e79da1c4c48f)
+
+Y reiniciamos:
+
+![reinicio](https://github.com/user-attachments/assets/4a1f9510-0709-44b0-825c-4d2ee9bafc01)
+
+Si ponemos la ip de la instancia,nos dará como resultado:
+
+![ssl final](https://github.com/user-attachments/assets/5e8ca457-4624-471e-9f48-f378407c555c)
+
+
+
