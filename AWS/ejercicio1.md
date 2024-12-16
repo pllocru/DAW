@@ -42,7 +42,7 @@ Y comporbamos que funciona:
 
 
 
-Y instalamos el mod_authn_mod para la autenticación:
+
 
 
 
