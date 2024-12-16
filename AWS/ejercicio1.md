@@ -54,8 +54,13 @@ Instalamos mysql
 
 ![instalar mysql](https://github.com/user-attachments/assets/8f563116-4ee0-48f6-9817-18bb8235832b)
 
+Accedemos con sudo:
 
+![sudomysql](https://github.com/user-attachments/assets/3729565d-52a2-48e2-8281-bc7c76384e3e)
 
+Y creamos uan base de datos:
+
+![crear databse](https://github.com/user-attachments/assets/b7cab70e-a6f4-4e98-b136-c8089a521668)
 
 
 
