@@ -62,6 +62,8 @@ Y creamos uan base de datos:
 
 ![crear databse](https://github.com/user-attachments/assets/b7cab70e-a6f4-4e98-b136-c8089a521668)
 
+Habilitamos los modulos necesarios:
+
 
 
 
