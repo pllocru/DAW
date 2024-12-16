@@ -28,9 +28,11 @@ Antes de instalar nada,actualizamos el sistema:
 
 Una vez actualizado,ahora si,lo instalamos:
 
+![apache](https://github.com/user-attachments/assets/b10e96f0-d47f-4116-b68b-84ec6bf23f84)
 
 
 Y lo inicamos:
+
 
 
 
@@ -40,6 +42,9 @@ Y comporbamos que funciona:
 
 # Activar la autenticación con MySql 
 
+Instalamos mysql
+
+![instalar mysql](https://github.com/user-attachments/assets/8f563116-4ee0-48f6-9817-18bb8235832b)
 
 
 
