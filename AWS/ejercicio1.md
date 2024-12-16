@@ -70,11 +70,11 @@ Accedemos con nano a la configuracion para agregar la configuración de DBD y au
 
 ![VH](https://github.com/user-attachments/assets/94f7430d-74bb-4a9a-a51b-92d26ea45bad)
 
-Y ubna vez haya realizado todos estos pasos,una vez coloquemos la url nos debería salir algo asi:
+Y una vez haya realizado todos estos pasos,una vez coloquemos la url nos debería salir algo asi:
 
 ![final](https://github.com/user-attachments/assets/afd915ee-fa49-4257-ba2a-1c5e39ed9fee)
 
-
+#  Activar el Módulo SSL y Crear un Certificado Autofirmado
 
 
 
