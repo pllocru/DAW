@@ -64,6 +64,19 @@ Y creamos uan base de datos:
 
 Habilitamos los modulos necesarios:
 
+![activar modulos](https://github.com/user-attachments/assets/ac7c02b4-dfcf-43f3-8e65-3cd0daac87d7)
+
+Accedemos con nano a la configuracion para agregar la configuración de DBD y autenticación:
+
+![VH](https://github.com/user-attachments/assets/94f7430d-74bb-4a9a-a51b-92d26ea45bad)
+
+Y ubna vez haya realizado todos estos pasos,una vez coloquemos la url nos debería salir algo asi:
+
+![final](https://github.com/user-attachments/assets/afd915ee-fa49-4257-ba2a-1c5e39ed9fee)
+
+
+
+
 
 
 
