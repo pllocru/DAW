@@ -24,5 +24,8 @@ Esta tendrá:
 
 
 El grupo de seguridad lo llamaremos seguridadwordpres. 
+
+
+
 Nos aseguramos de que el puerto 80 está abierto.
 
