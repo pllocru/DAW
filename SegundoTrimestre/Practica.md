@@ -36,7 +36,7 @@ Update para actualizar el sistema:
 
 ![update](https://github.com/user-attachments/assets/47995b2a-b000-41da-9972-8ae896000b5b)
 
-** Instalamos apache: **
+**Instalamos apache:**
 
 ![install apache](https://github.com/user-attachments/assets/9079b4e5-bfcc-4d5b-9491-317ac33331bf)
 
@@ -46,7 +46,7 @@ Iniciamos apache y comprobamos:
 
 ![apache](https://github.com/user-attachments/assets/847b9f33-326f-42c5-a0cd-de27b2b02d17)
 
-** Ahora php: **
+**Ahora php:**
 
 Confirmamos que el paquete amazon-linux-extras está instalado en nuestro servidor.
 
