@@ -36,7 +36,7 @@ Update para actualizar el sistema:
 
 ![update](https://github.com/user-attachments/assets/47995b2a-b000-41da-9972-8ae896000b5b)
 
-Instalamos apache:
+** Instalamos apache: **
 
 ![install apache](https://github.com/user-attachments/assets/9079b4e5-bfcc-4d5b-9491-317ac33331bf)
 
@@ -45,6 +45,24 @@ Iniciamos apache y comprobamos:
 ![runapache](https://github.com/user-attachments/assets/63c410a8-cb1c-4e0e-b1cb-28dc3536f22e)
 
 ![apache](https://github.com/user-attachments/assets/847b9f33-326f-42c5-a0cd-de27b2b02d17)
+
+** Ahora php: **
+
+Confirmamos que el paquete amazon-linux-extras está instalado en nuestro servidor.
+
+![php1](https://github.com/user-attachments/assets/9d09bde9-854b-4d27-bce3-63ae425aa7c6)
+
+Y instalamos la version de php 7.4 con mysql
+
+![php7 4](https://github.com/user-attachments/assets/f1ea6563-35b4-480b-97d7-7a487baab381)
+
+Reiniciamos apache y comprobamos que esta php instalado:
+
+![reiniciamos y version](https://github.com/user-attachments/assets/ddb8dc32-56d5-410f-b994-ffee444b8135)
+
+## Creación de la base de datos.
+
+
 
 
 
