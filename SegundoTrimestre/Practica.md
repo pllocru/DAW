@@ -62,6 +62,25 @@ Reiniciamos apache y comprobamos que esta php instalado:
 
 ## Creación de la base de datos.
 
+Creamos una base de datos mysql con todos estos ajustes:
+
+![RDS](https://github.com/user-attachments/assets/ec21694a-8a07-4413-90e3-1eb6dcc5c3aa)
+
+![plantilla](https://github.com/user-attachments/assets/cbef14f7-c933-4163-98f3-5c519c2abbb1)
+
+![contraseña y usuario](https://github.com/user-attachments/assets/6562400b-d916-4d7e-a2fb-ea0088c9645f)
+
+![config](https://github.com/user-attachments/assets/09461c94-8658-4c98-baf1-cfc45f77a13f)
+
+![almacenamiento](https://github.com/user-attachments/assets/cf6914fa-5f42-4b2a-932c-dae95ef42d5c)
+
+![conectividad](https://github.com/user-attachments/assets/dafc2132-17ef-47d7-8728-cfe1eca9cb8d)
+
+![configadicional](https://github.com/user-attachments/assets/13c13f5f-6bbe-47e9-badc-529358998382)
+
+![creada](https://github.com/user-attachments/assets/b8f4e783-296f-492b-ab6f-a0d8e096534a)
+
+
 
 
 
