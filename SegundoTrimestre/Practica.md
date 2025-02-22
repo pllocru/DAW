@@ -94,6 +94,41 @@ Y nos dará un enlace que nos servirá para conectarnos a wordpress:
 
 Ahora deberemos crear el sistema de almacenamiento externo que vamos a conectar a la instancia y que más tarde conectaremos a wordpress.
 
+![EFS](https://github.com/user-attachments/assets/95102d83-4d53-49d1-b65c-98338a81292d)
+
+Una vez lo tengamos creamos,le damos a asociar:
+
+![asociar](https://github.com/user-attachments/assets/28dd3817-3684-4430-b934-77819f9122f2)
+
+Y veremos que hay un código que deberemos de copiar para más adelante:
+
+![codigo](https://github.com/user-attachments/assets/c86b321c-e0ee-468c-9ee4-edf0268ae957)
+
+Aunque en EFS nos vamos a red y veremos este codigo de seguridad que lo recordaremos:
+
+![red](https://github.com/user-attachments/assets/5513a25c-32fd-4083-ac29-153ef5ffa267)
+
+Nos vamos ahora a editar las reglas de entrada en EC2 > security groups, y aquí cambiaremos las reglas de entrada,
+le daremos al que tenga el mismo codigo de seguridad:
+
+![grupos](https://github.com/user-attachments/assets/927ac301-05ba-4b75-a097-112d84315fd8)
+
+Y lo editamos, es importante poner el servidorwordpress para que funcione y así enlacemos la EC2 con la EFS
+
+![entrada](https://github.com/user-attachments/assets/87153746-26ca-4a6b-a93e-725a9e667b2d)
+
+Ahora nos vamos a la consola,creamos una carpeta llamada efs
+
+![creamos carptea](https://github.com/user-attachments/assets/ca126878-5cd8-48a1-8ef3-bfa98fec1af4)
+
+Hacemos una actualizacion:
+
+![instalamos esto](https://github.com/user-attachments/assets/aae08ba3-5833-4915-bd33-784db37b565c)
+
+Y lo conectamos:
+
+![conectamos](https://github.com/user-attachments/assets/ad54517a-c816-492d-af26-726be3b61381)
+
 
 
 
