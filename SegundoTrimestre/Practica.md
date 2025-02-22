@@ -80,6 +80,20 @@ Creamos una base de datos mysql con todos estos ajustes:
 
 ![creada](https://github.com/user-attachments/assets/b8f4e783-296f-492b-ab6f-a0d8e096534a)
 
+Una vez la creemos, la enlazamos a nuestra instancia:
+
+![establecemos la base en el EC2](https://github.com/user-attachments/assets/26f43ed1-4db5-4340-8b0e-b29f13cec0a5)
+
+![configuramos](https://github.com/user-attachments/assets/5433426c-f083-477f-88cc-a1886b7926d9)
+
+Y nos dará un enlace que nos servirá para conectarnos a wordpress:
+
+![ruta](https://github.com/user-attachments/assets/d9cdd432-7384-4584-9b65-8d6f0eb22efc)
+
+## Elastic File System.
+
+Ahora deberemos crear el sistema de almacenamiento externo que vamos a conectar a la instancia y que más tarde conectaremos a wordpress.
+
 
 
 
