@@ -131,8 +131,48 @@ Y lo conectamos:
 
 ## Descarga de Wordpress
 
+En la consola nos metemos a:
+
+![cd a](https://github.com/user-attachments/assets/76923b96-3a2e-4d3a-88f7-48adec67aabc)
 
 
+Y nos descargamos el archivo latest.tar.gz:
 
+![sudo tar](https://github.com/user-attachments/assets/5fa773dc-2432-47d3-99ae-a5b138853155)
 
+Y comprobamos que este todo ademas de asignar lo permisos necesarios:
+
+![cosas wordpres](https://github.com/user-attachments/assets/ea107642-0e55-4ce1-90aa-0c63f8a56cb1)
+
+Ahora instalamos el cliente sql:
+
+![cliente](https://github.com/user-attachments/assets/cd2c214e-3290-4bb1-85c8-916910349521)
+
+Entramos con la ruta de RDS de nuestra EC2:
+
+![entra a sql](https://github.com/user-attachments/assets/ef5c05d5-6c84-4592-b410-14a41efa8937)
+
+Creamos la base de datos:
+
+![create datatable](https://github.com/user-attachments/assets/42b38458-5b17-47b0-86b6-6f809fbd8e03)
+
+Ahora llamamos al servidor:
+
+![wordpresssssssssssss](https://github.com/user-attachments/assets/97360a4f-62c6-43f9-a4e4-e2d1940f71ff)
+
+Metemos la información necesaria para enlazar la base de datos:
+
+![info](https://github.com/user-attachments/assets/5a2aa613-9f7f-4df2-91d8-37d1a7f20358)
+
+Nos creamos un usuario:
+
+![datos](https://github.com/user-attachments/assets/2d676ac7-cf97-4a91-a91c-57d4d8c1352c)
+
+Para comprobar que lo hemos hecho bien nos podemos meter en el wp-config:
+
+![wgconfig](https://github.com/user-attachments/assets/fd9bb728-a623-45a8-a37b-0e45c10f0cbc)
+
+Y ahora entramos:
+
+![dentro](https://github.com/user-attachments/assets/2f904451-c411-4b2f-930b-53d2ac9d8ecf)
 
