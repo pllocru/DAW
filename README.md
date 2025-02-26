@@ -23,4 +23,4 @@ Ejercicio | Descripción
 
 Ejercicio | Descripción
 ----------|------------
-[Proyecto](/SegundoTrimestre/Readme.md) | Proyecto 
+[Proyecto](/SegundoTrimestre/Practica.md) | Proyecto 
