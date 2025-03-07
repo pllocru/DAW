@@ -164,6 +164,57 @@ Y comprobamos que están borrados todos:
 ![image](https://github.com/user-attachments/assets/eef432ec-ac29-427b-addd-a4edb27c1678)
 
 
+# Docker. Práctica 4
+
+
+Ejemplo 1: Crear volumen y usarlo en un contenedor
+
+![image](https://github.com/user-attachments/assets/420c97d8-73ef-4ce2-b1f0-e81477fb9614)
+
+![image](https://github.com/user-attachments/assets/7d02ac8e-bf3e-405e-9ffc-bafba01be933)
+
+![image](https://github.com/user-attachments/assets/6b8026fa-f8cb-42b5-b4ea-d914a140f10f)
+
+Comprobamos de que está corriendo el contenedor
+
+![image](https://github.com/user-attachments/assets/553881c1-c72d-41bf-88e6-095c78de34aa)
+
+
+Ejemplo 2: Usar un bind mount
+
+Crea una carpeta en tu máquina:
+
+![image](https://github.com/user-attachments/assets/9340c7cd-c703-4f7e-8758-822ca21f9c08)
+
+
+Ejecuta Nginx montando esa carpeta:
+
+![image](https://github.com/user-attachments/assets/a8423d61-19ae-4a1a-9f03-cc702ec545e7)
+
+Y comprobamos:
+
+![image](https://github.com/user-attachments/assets/23c5a1ae-f60b-423d-963e-23629392689b)
+
+![image](https://github.com/user-attachments/assets/55158168-bd62-490f-baf6-18e831817ab5)
+
+Ejemplo 3: Crear red bridge personalizada y conectar dos contenedores
+
+![image](https://github.com/user-attachments/assets/67ecea6c-ee7f-4e0f-8623-1489f67a739d)
+
+![image](https://github.com/user-attachments/assets/1ce3d896-d4fa-4c6f-bfb2-0722c01284b4)
+
+![image](https://github.com/user-attachments/assets/576009eb-2318-4489-bc17-8fde40d2c087)
+
+Y comprobamos de que funcione:
+
+![image](https://github.com/user-attachments/assets/43c3628f-ba7d-4967-b66f-2ffd28c39222)
+
+
+
+
+
+
+
 
 
 
