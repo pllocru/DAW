@@ -222,17 +222,66 @@ Crea un archivo docker-compose.yml:
 
 ![image](https://github.com/user-attachments/assets/3e075e6e-5e3b-487d-a21e-8b1ea42c8652)
 
-![image](https://github.com/user-attachments/assets/b6cb0477-718b-43ca-ae34-27ca9245eec1)
+![image](https://github.com/user-attachments/assets/c947e6a0-1314-4483-9dba-5ec7dbaf667c)
+
 
 Levanta el servicio:
 
 ![image](https://github.com/user-attachments/assets/f6bee487-7863-42ec-a06c-f4045514b7aa)
 
+Y veriamos:
 
 ![image](https://github.com/user-attachments/assets/bc02b500-970d-4595-a720-c877e177fe61)
 
+Ejemplo 2: Nginx sirviendo contenido propio (volumen)
 
+Crea una carpeta para el proyecto y dentro otra carpeta para el contenido:
 
+![image](https://github.com/user-attachments/assets/c46e33c1-7711-4c99-83a8-ceded730e1b3)
+
+Crea el archivo index.html dentro de la carpeta html:
+
+![image](https://github.com/user-attachments/assets/54e44de3-4f9a-4f8a-82db-95ed9829f069)
+
+![image](https://github.com/user-attachments/assets/cb96eeb3-230d-4963-8941-a4a16ea719f9)
+
+Creamos el archivo docker-compose.yml:
+
+![image](https://github.com/user-attachments/assets/ac0a5c99-69b2-41d1-adb3-fddd354722d9)
+
+![image](https://github.com/user-attachments/assets/e9d42eea-2585-4038-9cf6-829936ad788e)
+
+Levanta el servicio:
+
+![image](https://github.com/user-attachments/assets/ec8124e0-1582-4ec7-a0db-540bafc35bc0)
+
+Y comprobamos:
+
+![image](https://github.com/user-attachments/assets/afdcaf28-9db3-4052-bbe9-67aad2bfba56)
+
+Ejemplo 3: Comunicación entre dos contenedores Alpine
+
+![image](https://github.com/user-attachments/assets/300fdbe5-1b00-4cd7-893e-7ab8e9866d09)
+
+Crea el archivo docker-compose.yml:
+
+![image](https://github.com/user-attachments/assets/bf5020e2-115e-4a8c-bbef-562dbf9872ec)
+
+![image](https://github.com/user-attachments/assets/f0611f7d-76fb-416c-8816-ef2a991cacc1)
+
+Levanta los contenedores:
+
+![image](https://github.com/user-attachments/assets/bba56935-5dbb-4581-8565-d6813348902a)
+
+Comrpobamos:
+
+![image](https://github.com/user-attachments/assets/cee03a26-b8c1-487d-928d-be0c387afc2d)
+
+Haz ping de uno al otro para verificar comunicación:
+
+![image](https://github.com/user-attachments/assets/f6937ccc-e51c-4690-b49d-7188aa886d55)
+
+![image](https://github.com/user-attachments/assets/a7cedd16-bf3b-4475-8efe-ba4172c0cc5f)
 
 
 
