@@ -38,6 +38,33 @@ Verificamos que está instalado
 
 # Docker. Práctica 2
 
+Ejecuta la imagen "hello-world"
+
+![hello-world](https://github.com/user-attachments/assets/29978310-ec49-4caa-baf7-80b39f28c356)
+
+Mostramos las imágenes Docker instaladas y mostramos los contenedores Docker
+
+![contenedore](https://github.com/user-attachments/assets/ed978683-f63f-4152-9193-3d3eceec7a9e)
+
+Para ello creamos un directorio app, donde vamos a instalar dockerfile
+
+![app](https://github.com/user-attachments/assets/b9620486-36d9-4e7f-93e0-913857add7f4)
+
+Editamos el fichero Dockerfile:
+
+![image](https://github.com/user-attachments/assets/64266fd0-bf2b-4e3d-850b-5b068d345b64)
+
+Y introducimos esto:
+
+![dockerfile](https://github.com/user-attachments/assets/c2826609-b187-46f8-b61d-a2c652cca7cb)
+
+Iniciamos sesion en docker hub, y construimos un conetendor:
+
+![contenedor](https://github.com/user-attachments/assets/a8cc6cf0-794f-41e7-8c74-0a86f357f3af)
+
+Y iniciado sesion:
+
+![image](https://github.com/user-attachments/assets/a7118596-c495-4c61-9eba-bd0f04125e3b)
 
 
 
