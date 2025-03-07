@@ -62,15 +62,106 @@ Iniciamos sesion en docker hub, y construimos un conetendor:
 
 ![contenedor](https://github.com/user-attachments/assets/a8cc6cf0-794f-41e7-8c74-0a86f357f3af)
 
+Y lo construimos en nuestra imagen con el mismo nombre:
+
+![construimos contenerdor](https://github.com/user-attachments/assets/97481529-8a20-40e5-b4e6-2ed6e1fc9ef3)
+
 Y iniciado sesion:
+
+![login](https://github.com/user-attachments/assets/6f3a3f12-f062-4357-bdde-c81d74c4ec46)
+
+Nos pedirá que ingresemos un código:
+
+![docker](https://github.com/user-attachments/assets/8d3c0172-ed2b-4df3-8cbf-3832a5438efd)
+
+![bien](https://github.com/user-attachments/assets/19e5ed82-3ea6-47d9-b907-e414a3b72848)
+
+Comprobaos que hemos iniciado:
 
 ![image](https://github.com/user-attachments/assets/a7118596-c495-4c61-9eba-bd0f04125e3b)
 
+Ahora comprobamos que tenemos las imagenes construidas con:
+
+![images](https://github.com/user-attachments/assets/834c317b-4b0f-43cf-afab-7fa8523ecf26)
+
+Y vemos:
+
+![pablooooo](https://github.com/user-attachments/assets/fcc2c18d-76fe-4e27-ba35-b5abc62f0ba6)
+
+Reaizamos un push:
+
+![push](https://github.com/user-attachments/assets/b95e7fd1-9b47-43ec-89bf-dc6d6d528387)
+
+Y ya nos saldría:
+
+![esta](https://github.com/user-attachments/assets/73f2de8c-1747-4ef1-b4dd-a6ae5f74f0ac)
 
 
+# Docker. Práctica 3
 
 
+Descargar imágenes:
 
+-Descarga la imagen de ubuntu
+
+![docker pull](https://github.com/user-attachments/assets/de4fb450-c82a-48e0-8f45-120a92a8b3d2)
+
+-Descarga la imagen de hello-world
+
+![hello world](https://github.com/user-attachments/assets/05309d1d-d406-4357-99d1-74e83dbdf97f)
+
+-Descarga la imagen nginx
+
+![image](https://github.com/user-attachments/assets/55b311a8-297b-43d2-ab67-cb5b46764209)
+
+
+Muestra un listado de todas la imágenes
+
+![image](https://github.com/user-attachments/assets/e1cf1e5a-bc39-43ce-8eee-03859411695f)
+
+![image](https://github.com/user-attachments/assets/4cd7f291-3f49-4c22-bac8-e29f406dc82e)
+
+Ejecutar contenedores hello-world con nombres específicos
+
+-docker run --name myhello1 hello-world
+
+-docker run --name myhello2 hello-world
+
+-docker run --name myhello3 hello-world
+
+![image](https://github.com/user-attachments/assets/81e7c115-ff00-47c5-9bf4-3d5f9ef276ce)
+
+Mostrar los contenedores en ejecución
+
+Para ello ejecutamos docker ps -a
+
+![image](https://github.com/user-attachments/assets/78e4a1bb-7145-4804-8616-3f0cf72bf527)
+
+Parar contenedores
+
+Para el contenedor "myhello1”
+
+![image](https://github.com/user-attachments/assets/7615d878-ffb6-4b63-8608-55587ba6b877)
+
+Para el contenedor "myhello2”
+
+![image](https://github.com/user-attachments/assets/913d094a-9b50-4818-a4d6-dd2367a46ef3)
+
+Borrar el contenedor "myhello1"
+
+![image](https://github.com/user-attachments/assets/94bd7fdb-b035-4f1b-9aee-88a3e4a31d74)
+
+Borra el contenedor “myhello1”
+
+![image](https://github.com/user-attachments/assets/82d5c267-81aa-469e-a5aa-42815a632bd6)
+
+Borra todos los contenedores
+
+![image](https://github.com/user-attachments/assets/635f841a-ed02-4bc1-b2d8-803af7a9b9bd)
+
+Y comprobamos que están borrados todos:
+
+![image](https://github.com/user-attachments/assets/eef432ec-ac29-427b-addd-a4edb27c1678)
 
 
 
