@@ -210,6 +210,26 @@ Y comprobamos de que funcione:
 ![image](https://github.com/user-attachments/assets/43c3628f-ba7d-4967-b66f-2ffd28c39222)
 
 
+# Docker. Práctica 5
+
+Ejemplo 1: Nginx simple con Docker Compose
+
+Crea una carpeta para el proyecto:
+
+![image](https://github.com/user-attachments/assets/e51bdb55-f0f7-4ae8-a770-efe3f0fb9cfa)
+
+Crea un archivo docker-compose.yml:
+
+![image](https://github.com/user-attachments/assets/3e075e6e-5e3b-487d-a21e-8b1ea42c8652)
+
+![image](https://github.com/user-attachments/assets/b6cb0477-718b-43ca-ae34-27ca9245eec1)
+
+Levanta el servicio:
+
+![image](https://github.com/user-attachments/assets/f6bee487-7863-42ec-a06c-f4045514b7aa)
+
+
+![image](https://github.com/user-attachments/assets/bc02b500-970d-4595-a720-c877e177fe61)
 
 
 
