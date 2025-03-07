@@ -285,5 +285,77 @@ Haz ping de uno al otro para verificar comunicación:
 
 
 
+# Docker. Práctica 6
+
+Ejemplo 1: Crear una imagen personalizada de Alpine que muestre un mensaje
+
+Crea una carpeta para el ejemplo:
+
+![image](https://github.com/user-attachments/assets/df8b4dfa-f0ea-4eec-af85-13635cbaf97c)
+
+Crea el archivo Dockerfile:
+
+![image](https://github.com/user-attachments/assets/f1ec4778-fda5-490e-8d57-5529af37b126)
+
+Construye la imagen:
+
+![image](https://github.com/user-attachments/assets/0d571dd5-5d15-4d0d-941f-25f6f74eea0d)
+
+Ejecuta la imagen:
+
+![image](https://github.com/user-attachments/assets/920af6c3-5eec-4242-944a-97895fe41598)
+
+
+Ejemplo 2: Imagen de Nginx con página personalizada
+
+Crea la carpeta:
+
+![image](https://github.com/user-attachments/assets/63d0110d-be92-4109-95ea-c70d8520485c)
+
+Dentro de la carpeta html, crea el archivo index.html:
+
+![image](https://github.com/user-attachments/assets/0f05fb7d-dfb2-4c7e-9b40-1bd1539e8c85)
+
+Crea el archivo Dockerfile:
+
+![image](https://github.com/user-attachments/assets/a7e89118-4895-4714-8b94-5f600863dbfd)
+
+Construye la imagen:
+
+![image](https://github.com/user-attachments/assets/7f495405-b4d9-4905-afbd-2fffdf602da9)
+
+Ejecuta el contenedor:
+
+![image](https://github.com/user-attachments/assets/c3baab7c-e1a2-45ec-95a6-e6e3c4f06f11)
+
+Abre en tu navegador:
+
+![image](https://github.com/user-attachments/assets/ca3856b4-3476-47b7-b7c5-677e774f2145)
+
+
+Ejemplo 3: Imagen de Debian que imprime la fecha
+
+Crea la carpeta:
+
+![image](https://github.com/user-attachments/assets/58ba98ee-f2f8-4afc-987f-6fef2d32dcf3)
+
+Crea el archivo Dockerfile:
+
+![image](https://github.com/user-attachments/assets/671bb6a3-d6dc-4161-ad05-adfb5cc73d80)
+
+Construye la imagen:
+
+![image](https://github.com/user-attachments/assets/5c48b5e4-ddd7-45ff-8d9d-01c4b12f4ef5)
+
+Ejecuta la imagen:
+
+![image](https://github.com/user-attachments/assets/d2d2391b-b992-4dd3-821d-73ee2d6fa8d5)
+
+
+
+
+
+
+
 
 
